@@ -37,7 +37,3 @@ function calculateIMC() {
 
 
 
-//converter string pra number
-
-/*let p = Number(bodyW.value)
-let a = Number(bodyH.value)*/
