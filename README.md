@@ -10,7 +10,8 @@
  
  ## Explanation 📑
  
- 
+ <p> Project to train JavaScript!
+BMI is a parameter used to assess whether weight is within the ideal value for height. This means that from the result of the BMI it is possible to know if the person is underweight or under the recommended weight and also above diagnosis of health problems such as obesity or malnutrition. <p>
  
  ## 💻 Technologies used
 
