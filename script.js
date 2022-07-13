@@ -32,8 +32,12 @@ function calculateIMC() {
         res.innerHTML =
         `${name.value}, <span>seu IMC está ${imc}</span>. <br> Obesidade grau III. Procure um médico!`;
 
+<<<<<<< Updated upstream
 }
 
 
 
 
+=======
+}
+>>>>>>> Stashed changes
