@@ -11,6 +11,7 @@ function calculateIMC() {
     let bodyH = Number.parseInt(document.getElementById('bodyH').value);
     let res = document.getElementById('res');
 
+
     let imc = (bodyW / ((bodyH * bodyH) / 10000)).toFixed(2)
 
     if (imc < 18.5)
