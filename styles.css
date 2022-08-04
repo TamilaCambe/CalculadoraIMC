@@ -16,6 +16,7 @@
      margin-bottom: 1.5rem;
      margin-inline: auto;
      text-align: center;
+     transition: 1s;
  }
  
  p {
@@ -23,6 +24,7 @@
      color: #fff;
      font-size: 1.5rem;
      margin-top: 1.5rem;
+     transition: 1s;
  }
  
  input {
@@ -106,5 +108,11 @@
          width: 80%;
          height: 100%;
          margin-top: 8rem;
+     }
+     h1 {
+         font-size: 2rem;
+     }
+     p {
+         font-size: 1.2rem;
      }
  }
