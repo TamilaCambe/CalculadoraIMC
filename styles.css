@@ -38,12 +38,13 @@
      padding-top: .3rem;
      background-color: rgb(1, 2, 13);
      font-size: 1.2rem;
+     color: #fff;
  }
  
  ::-webkit-input-placeholder {
      font-size: 1.2rem;
      font-weight: 300;
-     color: #0c0c0c;
+     color: rgba(255, 255, 255, 0.2)
  }
  
  #bodyW {
