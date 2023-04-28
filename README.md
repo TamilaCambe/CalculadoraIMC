@@ -2,15 +2,15 @@
 <h1 align = 'center'> Calculadora-IMC 🏋️‍♂️</h1>
 <h3 align = 'center'> O IMC é um parâmetro utilizado para avaliar se o peso está dentro do valor ideal para a altura. </h1>
  
- ## Demonstration 👀 
+ ![Badge](https://img.shields.io/static/v1?label=DEV&message=Tamila&color=01010a&style=flat&logo=)
  
-  ![Badge](https://img.shields.io/static/v1?label=DEV&message=Tamila&color=01010a&style=flat&logo=)
+ ## Demonstration 👀 
  
  ![homepage](https://github.com/TamilaCambe/CalculadoraIMC/blob/main/assets/Design%20sem%20nome%20(6).gif)
  
- ## Explanation 📑
+ ## Explicação 📑
  
- <p> Project to train JavaScript!
+ <p> Projeto para treinar JavaScript!
 O IMC é um parâmetro utilizado para avaliar se o peso está dentro do valor ideal para a altura. Isso significa que a partir do resultado do IMC é possível saber se a pessoa está abaixo do peso ou abaixo do recomendado e também acima do diagnóstico de problemas de saúde como obesidade ou desnutrição. Está responsivo.<p>
  
  ## 💻 Tecnologias usadas
